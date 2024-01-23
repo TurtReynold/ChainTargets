@@ -1,5 +1,5 @@
 
-# ChainFinder for Torn
+# ChainTargets for Torn
 
 This makes a button on any profile page, which upon clicking, takes you to a random profile from the ones in the list.
 
