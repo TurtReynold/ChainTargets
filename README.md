@@ -6,7 +6,7 @@ This makes a button on any profile page, which upon clicking, takes you to a ran
 
 ## Installation
 
-Install Chainfinder with your favourite userscript manager. I use Tampermonkey.
+Install ChainTargets with your favourite userscript manager. I use Tampermonkey.
 
 To install, download the code as a ZIP, extract all, and import the javascript file into your userscript manager.
 
